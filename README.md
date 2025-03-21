@@ -36,7 +36,7 @@
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 50px> 
  
  <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-devisha&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="200px"  width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-shaurya&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="200px"  width="500px"/>
 </div>
 <div>
 <h2>Leetcode Info: </h2>   
@@ -46,7 +46,7 @@
 *Expand to view*
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.shivamshaurya.vercel.app/api?username=shivamshaurya&show_icons=true" />
+  <img src="https://github-readme-stats.shivam-shaurya.vercel.app/api?username=shivam-shaurya&show_icons=true" />
 </details>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
@@ -54,7 +54,7 @@
    <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=git-devisha&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=git-devisha&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en" alt="git-devisha" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shivam-shaurya&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en" alt="shivam-shaurya" /></p>
 <br>
 
 
