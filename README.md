@@ -46,7 +46,7 @@
 *Expand to view*
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.git-devisha.vercel.app/api?username=git-devisha&show_icons=true" />
+  <img src="https://github-readme-stats.shivamshaurya.vercel.app/api?username=shivamshaurya&show_icons=true" />
 </details>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
