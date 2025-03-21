@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Shivam Shaurya</h1> 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshiita07&label=Profile%20views&color=blueviolet&style=plastic" alt="akshiita07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-shaurya&label=Profile%20views&color=blueviolet&style=plastic" alt="shivam-shaurya" /> </p>
 - 🌱 Passionate about Data Analysis and ML
 - 💞 I’m looking to collaborate on Projects in Python, Frontend Development, C, C++
 - 📫 How to reach me : mail me at shivamshaurya774@gmail.com
