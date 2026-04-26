@@ -11,12 +11,11 @@
 
 <!-- ================= ABOUT ================= -->
 
-<h2>🧠 About Me</h2>
+<h2> About Me</h2>
 
-<p>
-🎓 Integrated B.Tech–M.Tech (AI/ML) student at <b>RGIPT</b><br><br>
 
-🚀 Focused on building intelligent systems using:
+
+ Focused on building intelligent systems using:
 
 <ul>
   <li><b>Machine Learning & Deep Learning</b></li>
@@ -24,7 +23,7 @@
   <li><b>Data Science & Analytics</b></li>
 </ul>
 
-🧩 Interested in:
+ Interested in:
 
 <ul>
   <li>Real-world AI applications (Geospatial, Seismic, Vision Systems)</li>
@@ -32,7 +31,7 @@
   <li>Scalable Backend Systems</li>
 </ul>
 
-🤝 Open to collaborations in <b>AI/ML, Computer Vision & Full Stack Development</b>
+ Open to collaborations in <b>AI/ML, Computer Vision & Full Stack Development</b>
 
 </p>
 
@@ -40,9 +39,9 @@
 
 <!-- ================= TECH STACK ================= -->
 
-<h2>⚡ Tech Stack</h2>
+<h2> Tech Stack</h2>
 
-<h3>🧠 AI / ML / Computer Vision</h3>
+<h3> AI / ML / Computer Vision</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,keras,sklearn" />
 </p>
