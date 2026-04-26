@@ -1,68 +1,126 @@
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Shivam Shaurya</h1> 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-shaurya&label=Profile%20views&color=blueviolet&style=plastic" alt="shivam-shaurya" /> </p>
-- 🌱 Passionate about Data Analysis and ML
-- 💞 I’m looking to collaborate on Projects in Python, Frontend Development, C, C++
-- 📫 How to reach me : mail me at shivamshaurya774@gmail.com
-<h2> 🚀 &nbsp;Skills</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="50" height="50"/>    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50"/>       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"  width="50" height="50"/>
-          
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">Hi 👋, I'm Shivam Shaurya</h1>
+<h3 align="center">AI/ML Engineer • Computer Vision Enthusiast • Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivam-shaurya&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 50px> 
- 
- <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-shaurya&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="200px"  width="500px"/>
-</div>
-<div>
-<h2>Leetcode Info: </h2>   
-<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/shivam-shaurya?theme=dark&font=Nunito&ext=heatmap" /> 
-</div>
+---
 
-*Expand to view*
-<details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.shivam-shaurya.vercel.app/api?username=shivam-shaurya&show_icons=true" />
-</details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=git-devisha&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shivam-shaurya&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en" alt="shivam-shaurya" /></p>
-<br>
+<!-- ================= ABOUT ================= -->
 
+<h2>🧠 About Me</h2>
 
- 
+<p>
+🎓 Integrated B.Tech–M.Tech (AI/ML) student at <b>RGIPT</b><br><br>
 
+🚀 Focused on building intelligent systems using:
 
-          
-<!---
-git-devisha/git-devisha is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<ul>
+  <li><b>Machine Learning & Deep Learning</b></li>
+  <li><b>Computer Vision</b></li>
+  <li><b>Data Science & Analytics</b></li>
+</ul>
+
+🧩 Interested in:
+
+<ul>
+  <li>Real-world AI applications (Geospatial, Seismic, Vision Systems)</li>
+  <li>Model Optimization & Deployment (MLOps)</li>
+  <li>Scalable Backend Systems</li>
+</ul>
+
+🤝 Open to collaborations in <b>AI/ML, Computer Vision & Full Stack Development</b>
+
+</p>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+<h2>⚡ Tech Stack</h2>
+
+<h3>🧠 AI / ML / Computer Vision</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,keras,sklearn" />
+</p>
+
+<h3>📊 Data Science</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+</p>
+
+<h3>🌐 Web Development</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,js,tailwind,vite" />
+</p>
+
+<h3>🗄️ Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" />
+</p>
+
+<h3>⚙️ Tools & Platforms</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+<h3>💻 Programming Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python" />
+</p>
+
+---
+
+<!-- ================= STATS ================= -->
+
+<h2>📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivam-shaurya&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-shaurya&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<!-- ================= ACTIVITY ================= -->
+
+<h2>🔥 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-shaurya&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+<!-- ================= LEETCODE ================= -->
+
+<h2>🧩 Problem Solving</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shivam-shaurya?theme=dark&font=Nunito&ext=heatmap" />
+</p>
+
+---
+
+<!-- ================= CONTACT ================= -->
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+📧 <b>Email:</b> shivamshaurya774@gmail.com <br>
+💼 <b>Looking for:</b> AI/ML Internships | Software Engineering Roles
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+  ⭐ <i>Building intelligent systems that solve real-world problems</i>
+</p>
